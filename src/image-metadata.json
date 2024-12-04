@@ -32,5 +32,290 @@
     "filename": "mecha/mecha2.webp",
     "tags": [],
     "label": ""
+  },
+  {
+    "filename": "ac8autocannon.webp",
+    "tags": [],
+    "label": "Autocannon"
+  },
+  {
+    "filename": "ad334guarddog.webp",
+    "tags": [],
+    "label": "AX/AR-23 \"Guard Dog\""
+  },
+  {
+    "filename": "antipersonnelminefield.webp",
+    "tags": [],
+    "label": "Anti-Personnel Minefield"
+  },
+  {
+    "filename": "antitankmines.webp",
+    "tags": [],
+    "label": "Anti-Tank Mines"
+  },
+  {
+    "filename": "apw1antimaterielrifle.webp",
+    "tags": [],
+    "label": "Anti-Material Rifle"
+  },
+  {
+    "filename": "arc3arcthrower.webp",
+    "tags": [],
+    "label": "Arc Thrower"
+  },
+  {
+    "filename": "autocannonsentry.webp",
+    "tags": [],
+    "label": "Autocannon Sentry"
+  },
+  {
+    "filename": "axlas5guarddogrover.webp",
+    "tags": [],
+    "label": "AX/LAS-5 \"Guard Dog\" Rover"
+  },
+  {
+    "filename": "axtx13guarddogdogbreath.webp",
+    "tags": [],
+    "label": "AX/TX-13 \"Guard Dog\" Dog Breath"
+  },
+  {
+    "filename": "b1supplypack.webp",
+    "tags": [],
+    "label": "Supply Pack"
+  },
+  {
+    "filename": "eagle110mmrocketpods.webp",
+    "tags": [],
+    "label": "Eagle 110mm Rocket Pods"
+  },
+  {
+    "filename": "eagle500kgbomb.webp",
+    "tags": [],
+    "label": "Eagle 500kg Bomb"
+  },
+  {
+    "filename": "eagleairstrike.webp",
+    "tags": [],
+    "label": "Eagle Airstrike"
+  },
+  {
+    "filename": "eagleclusterbomb.webp",
+    "tags": [],
+    "label": "Eagle Cluster Bomb"
+  },
+  {
+    "filename": "eaglenapalmstrike.webp",
+    "tags": [],
+    "label": "Eagle Napalm Strike"
+  },
+  {
+    "filename": "eaglesmokestrike.webp",
+    "tags": [],
+    "label": "Eagle Smoke Strike"
+  },
+  {
+    "filename": "eaglestrafingrun.webp",
+    "tags": [],
+    "label": "Eagle Strafing Run"
+  },
+  {
+    "filename": "eat17expendableantitank.webp",
+    "tags": [],
+    "label": "Expendable Anti-Tank"
+  },
+  {
+    "filename": "emsmortarsentry.webp",
+    "tags": [],
+    "label": "EMS Mortar Sentry"
+  },
+  {
+    "filename": "exo45patriotexosuit.webp",
+    "tags": [],
+    "label": "Patriot Exosuit"
+  },
+  {
+    "filename": "exo49emancipatorexosuit.webp",
+    "tags": [],
+    "label": "Emancipator Exosuit"
+  },
+  {
+    "filename": "faf14spear.webp",
+    "tags": [],
+    "label": "Spear"
+  },
+  {
+    "filename": "flam40flamethrower.webp",
+    "tags": [],
+    "label": "Flamethrower"
+  },
+  {
+    "filename": "gatlingsentry.webp",
+    "tags": [],
+    "label": "Gatling Sentry"
+  },
+  {
+    "filename": "gl21grenadelauncher.webp",
+    "tags": [],
+    "label": "Grenade Launcher"
+  },
+  {
+    "filename": "gr8recoillessrifle.webp",
+    "tags": [],
+    "label": "Recoilless Rifle"
+  },
+  {
+    "filename": "hmgemplacement.webp",
+    "tags": [],
+    "label": "HMG Emplacement"
+  },
+  {
+    "filename": "incendiarymines.webp",
+    "tags": [],
+    "label": "Incendiary Mines"
+  },
+  {
+    "filename": "las98lasercannon.webp",
+    "tags": [],
+    "label": "Laser Cannon"
+  },
+  {
+    "filename": "las99quasarcannon.webp",
+    "tags": [],
+    "label": "Quasar Cannon"
+  },
+  {
+    "filename": "lift850jumppack.webp",
+    "tags": [],
+    "label": "Jump Pack"
+  },
+  {
+    "filename": "m105stalwart.webp",
+    "tags": [],
+    "label": "Stalwart"
+  },
+  {
+    "filename": "machinegunsentry.webp",
+    "tags": [],
+    "label": "Machine Gun Sentry"
+  },
+  {
+    "filename": "mg206heavymachinegun.webp",
+    "tags": [],
+    "label": "Heavy Machine Gun"
+  },
+  {
+    "filename": "mg43machinegun.webp",
+    "tags": [],
+    "label": "Machine Gun"
+  },
+  {
+    "filename": "mls4xcommandorocketlauncher.webp",
+    "tags": [],
+    "label": "Commando"
+  },
+  {
+    "filename": "mortarsentry.webp",
+    "tags": [],
+    "label": "Mortar Sentry"
+  },
+  {
+    "filename": "orbital120mmhebarrage.webp",
+    "tags": [],
+    "label": "Orbital 120mm HE Barrage"
+  },
+  {
+    "filename": "orbital380mmhebarrage.webp",
+    "tags": [],
+    "label": "Orbital 380mm HE Barrage"
+  },
+  {
+    "filename": "orbitalairburststrike.webp",
+    "tags": [],
+    "label": "Orbital Airburst Strike"
+  },
+  {
+    "filename": "orbitalemsstrike.webp",
+    "tags": [],
+    "label": "Orbital EMS Strike"
+  },
+  {
+    "filename": "orbitalgasstrike.webp",
+    "tags": [],
+    "label": "Orbital Gas Strike"
+  },
+  {
+    "filename": "orbitalgatlingbarrage.webp",
+    "tags": [],
+    "label": "Orbital Gatling Barrage"
+  },
+  {
+    "filename": "orbitallaser.webp",
+    "tags": [],
+    "label": "Orbital Laser"
+  },
+  {
+    "filename": "orbitalnapalmbarrage.webp",
+    "tags": [],
+    "label": "Orbital Napalm Barrage"
+  },
+  {
+    "filename": "orbitalprecisionstrike.webp",
+    "tags": [],
+    "label": "Orbital Precision Strike"
+  },
+  {
+    "filename": "orbitalrailcannonstrike.webp",
+    "tags": [],
+    "label": "Orbital Railcannon Strike"
+  },
+  {
+    "filename": "orbitalsmokestrike.webp",
+    "tags": [],
+    "label": "Orbital Smoke Strike"
+  },
+  {
+    "filename": "orbitalwalkingbarrage.webp",
+    "tags": [],
+    "label": "Orbital Walking Barrage"
+  },
+  {
+    "filename": "rl77airburstrocketlauncher.webp",
+    "tags": [],
+    "label": "Airburst Rocket Launcher"
+  },
+  {
+    "filename": "rocketsentry.webp",
+    "tags": [],
+    "label": "Rocket Sentry"
+  },
+  {
+    "filename": "rs422railgun.webp",
+    "tags": [],
+    "label": "Railgun"
+  },
+  {
+    "filename": "sh20ballisticshieldbackpack.webp",
+    "tags": [],
+    "label": "Ballistic Shield Backpack"
+  },
+  {
+    "filename": "sh20shieldgeneratorpack.webp",
+    "tags": [],
+    "label": "Shield Generator Pack"
+  },
+  {
+    "filename": "shieldgeneratorrelay.webp",
+    "tags": [],
+    "label": "Shield Generator Relay"
+  },
+  {
+    "filename": "teslatower.webp",
+    "tags": [],
+    "label": "Tesla Tower"
+  },
+  {
+    "filename": "tx41sterilizer.webp",
+    "tags": [],
+    "label": "Sterilizer"
   }
 ]
